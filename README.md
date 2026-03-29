@@ -19,8 +19,8 @@
 
 ## 🛠️ Verified PDKs
 The built-in LUT extraction has been successfully tested on industry-standard device models:
-*   **TSMC 65nm** (`nch` / `pch`, models loaded from `toplevel.scs`, `tt_lib` corner)
-*   **UMC 90nm** (`n_10_sp` / `p_10_sp`, `tt` corner)
+*   **65nm** (`nch` / `pch`, models loaded from `toplevel.scs`, `tt_lib` corner)
+*   **90nm** (`n_10_sp` / `p_10_sp`, `tt` corner)
 *   **Cadence gpdk045** (`g45n1svt` / `g45p1svt`, `tt` corner)
 
 ---
